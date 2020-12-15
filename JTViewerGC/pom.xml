@@ -159,7 +159,7 @@ This library curerntly parses JT files including faceted data, the Logocal Scene
 		<dependency>
 			<groupId>com.thoughtworks.xstream</groupId>
 			<artifactId>xstream</artifactId>
-			<version>1.3.1</version>
+			<version>1.4.13-java7</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
